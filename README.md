@@ -100,7 +100,7 @@ Domain: google.com
 
 ## 🧑‍💻 Author
 
-Made with ☕ and `socket` by [Your Name](https://github.com/utkarsh-404)
+Made with ☕ and `socket` by [Utkarsh Raj](https://github.com/utkarsh-404)
 
 ---
 
